@@ -1,0 +1,7 @@
+com.abc.Abc
+com.abc.AbcCommunityPortal
+com.abc.AbcCommunityPortal.controller
+com.abc.AbcCommunityPortal.dao
+com.abc.AbcCommunityPortal.dto
+com.abc.AbcCommunityPortal.service
+com.abc.AbcCommunityPortal.service.security
