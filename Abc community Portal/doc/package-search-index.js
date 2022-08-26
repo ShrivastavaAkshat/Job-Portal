@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.abc.Abc"},{"l":"com.abc.AbcCommunityPortal"},{"l":"com.abc.AbcCommunityPortal.controller"},{"l":"com.abc.AbcCommunityPortal.dao"},{"l":"com.abc.AbcCommunityPortal.dto"},{"l":"com.abc.AbcCommunityPortal.service"},{"l":"com.abc.AbcCommunityPortal.service.security"}];updateSearchResults();
